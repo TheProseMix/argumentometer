@@ -2,6 +2,7 @@
 
 | Symbol | Meaning                                                     |
 | ------ | :---------------------------------------------------------- |
+| ❓     | Don't remember                                              |
 | ⚪️     | No argument/agreeing and getting depressed                  |
 | 🔵     | Non-trivial unrest                                          |
 | 🔴     | Argument/extreme unrest                                     |
