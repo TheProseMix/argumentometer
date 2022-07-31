@@ -4,7 +4,7 @@
 | ------ | :---------------------------------------------------------- |
 | ❓     | Don't remember                                              |
 | ⚪️     | No argument/agreeing and getting depressed                  |
-| 🔵     | Non-trivial unrest                                          |
+| 🔵     | Non-trivial unrest/excessive self-centredness               |
 | 🔴     | Argument/extreme unrest                                     |
 | ⚫️     | Exacerbating/disproportionate argument                      |
 | ☠️      | Cataclysmic argument                                        |
